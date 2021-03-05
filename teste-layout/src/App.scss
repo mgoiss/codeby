@@ -19,6 +19,27 @@ h6 {
   font-weight: 600;
 }
 
+h1 {
+  font-size: calc(min(54px, 5vw));
+  letter-spacing: -0.015em;
+}
+
+h3 {
+  font-size: calc(min(24px, 3vw));
+  letter-spacing: -0.015em;
+}
+
+p {
+  margin-top: 15px;
+  margin-bottom: 0px;
+  font-size: calc(min(13px, 2.4vw));
+  letter-spacing: -0.015em;
+}
+
 .mr-60 {
   margin-right: 60px;
+}
+
+.mr-30 {
+  margin-right: 30px;
 }
